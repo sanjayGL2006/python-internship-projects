@@ -17,17 +17,6 @@ users.json
 venv/
 ENV/
 
-# Scratch & test scripts
-coderr.py
-game.py
-game2.py
-gamee3.py
-ganesh.*
-api*.py
-simplw2.py
-main.py
-templates/
-
 # Python Cache & Bytecode
 __pycache__/
 *.py[cod]
