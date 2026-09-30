@@ -1,0 +1,41 @@
+# Environment variables
+.env
+*.env
+
+# SQLite Database files
+*.db
+*.sqlite3
+
+# Encryption keys and generated runtime files
+key.key
+custom_commands.json
+users.json
+
+# Virtual Environments
+.venv/
+.venv-*/
+venv/
+ENV/
+
+# Scratch & test scripts
+coderr.py
+game.py
+game2.py
+gamee3.py
+ganesh.*
+api*.py
+simplw2.py
+main.py
+templates/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
